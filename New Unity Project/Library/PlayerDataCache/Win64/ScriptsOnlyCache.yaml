@@ -157,47 +157,47 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12558}
     - Class: 114
-      Script: {instanceID: 12744}
+      Script: {instanceID: 12742}
     - Class: 114
-      Script: {instanceID: 12808}
+      Script: {instanceID: 12806}
+    - Class: 114
+      Script: {instanceID: 12956}
     - Class: 114
       Script: {instanceID: 12958}
     - Class: 114
-      Script: {instanceID: 12960}
+      Script: {instanceID: 12980}
     - Class: 114
-      Script: {instanceID: 12982}
+      Script: {instanceID: 13048}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13054}
+      Script: {instanceID: 13074}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13096}
     - Class: 114
-      Script: {instanceID: 13098}
+      Script: {instanceID: 13138}
     - Class: 114
-      Script: {instanceID: 13140}
+      Script: {instanceID: 13292}
     - Class: 114
-      Script: {instanceID: 13294}
+      Script: {instanceID: 13312}
     - Class: 114
-      Script: {instanceID: 13314}
+      Script: {instanceID: 13384}
     - Class: 114
-      Script: {instanceID: 13386}
+      Script: {instanceID: 13414}
     - Class: 114
-      Script: {instanceID: 13416}
+      Script: {instanceID: 13440}
     - Class: 114
-      Script: {instanceID: 13442}
+      Script: {instanceID: 13474}
     - Class: 114
-      Script: {instanceID: 13476}
+      Script: {instanceID: 13614}
     - Class: 114
-      Script: {instanceID: 13616}
+      Script: {instanceID: 13680}
     - Class: 114
-      Script: {instanceID: 13682}
+      Script: {instanceID: 13698}
     - Class: 114
-      Script: {instanceID: 13700}
+      Script: {instanceID: 13774}
     - Class: 114
-      Script: {instanceID: 13776}
-    - Class: 114
-      Script: {instanceID: 13802}
+      Script: {instanceID: 13800}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1520,4 +1520,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Julien/Documents/Travail/ISEN/VR/Build/New Unity Project.exe
+  playerPath: C:/Users/Julien/Documents/GitHub/PingPong_VR/PingPong_VR/PingPongVR_build/New
+    Unity Project.exe
